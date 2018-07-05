@@ -1,0 +1,51 @@
+﻿        .RadComboBox_Metro .rcbReadOnly .rcbInputCell {
+            height: 34px !important;
+            width: 100% !important;
+            border-radius: 4px 0px 0px 4px !important;
+            border-color: transparent !important;
+            background-color: white !important;
+        }
+
+        .RadComboBox_Metro .rcbInputCell {
+            height: 25px !important;
+            width: 100% !important;
+            border-radius: 4px 0px 0px 4px !important;
+            border-color: transparent !important;
+            background-color: white !important;
+        }
+
+        }
+
+        .RadComboBox_Metro .rcbHovered .rcbReadOnly .rcbInputCell {
+            background-color: white !important;
+        }
+
+        .rcbInputCell .rcbInputCellLeft {
+            width: 100% !important;
+            border-radius: 4px 0px 0px 4px !important;
+            border-color: transparent !important;
+        }
+
+        .RadComboBox_Metro .rcbArrowCell {
+            border-color: transparent !important;
+            border-radius: 0px 4px 4px 0px !important;
+            background-color: white !important;
+        }
+
+        .RadComboBox_Metro .rcbHovered .rcbArrowCell {
+            background-color: white !important;
+        }
+
+        .RadComboBox_Metro .rcbFocused .rcbReadOnly .rcbInputCell {
+            color: white !important;
+            background-color: #ffffff !important;
+        }
+
+        .RadComboBox_Metro .rcbFocused .rcbArrowCell {
+            color: white !important;
+            background-color: #ffffff !important;
+        }
+
+            .RadComboBox_Metro .rcbFocused .rcbArrowCell a {
+                background-position: -22px -20px !important;
+            }
